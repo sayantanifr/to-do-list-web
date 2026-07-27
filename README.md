@@ -13,7 +13,7 @@ A simple and interactive To-Do List web application designed to help users organ
 
 ## 🌐 Live Demo
 
-Coming soon 🚀
+https://sayantanifr.github.io/to-do-list-web/
 
 ## 🚀 Technologies Used
 
