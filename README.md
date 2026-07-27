@@ -1,8 +1,8 @@
-# To-Do List Web Application
+# 💼 To-Do List Web Application
 
 A simple and interactive To-Do List web application designed to help users organize and manage their daily tasks efficiently.
 
-## Features
+## ✨ Features
 
 - Add new tasks
 - Mark tasks as completed
@@ -11,17 +11,17 @@ A simple and interactive To-Do List web application designed to help users organ
 - Responsive design for mobile devices
 - User-friendly and clean interface
 
-## Live Demo
+## 🌐 Live Demo
 
 Coming soon 🚀
 
-## Technologies Used
+## 🚀 Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-## Project Structure
+## 📁 Project Structure
 
 ```text
 to-do-list-web-app/
@@ -33,7 +33,7 @@ to-do-list-web-app/
 └── README.md       # Project documentation
 ```
 
-## Author
+## 👩🏻‍💻 Author
 
 **Sayantani Sikdar**
 
