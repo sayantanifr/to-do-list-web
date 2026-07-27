@@ -11,6 +11,14 @@ A simple and interactive To-Do List web application designed to help users organ
 - Responsive design for mobile devices
 - User-friendly and clean interface
 
+## How to Use
+
+1. Enter a task in the input field.
+2. Select a category.
+3. Add the task to your list.
+4. Mark tasks as completed when finished.
+5. Use filters to organize your tasks.
+
 ## 🌐 Live Demo
 
 https://sayantanifr.github.io/to-do-list-web/
