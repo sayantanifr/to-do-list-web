@@ -31,8 +31,7 @@ to-do-list-web-app/
 ├── script.js       # Task management and application functionality
 ├── background.png  # Header background image
 └── README.md       # Project documentation
-
-
+```
 
 ## Author
 
