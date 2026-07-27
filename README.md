@@ -37,3 +37,8 @@ to-do-list-web-app/
 
 **Sayantani Sikdar**
 
+## 🪪 Licence 
+
+This project is licensed under the MIT License.
+
+
